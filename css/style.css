@@ -1,0 +1,172 @@
+.flex-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-section {
+  width: 1728px;
+  height: 158px;
+  background-color: #191a19;
+  margin: 0 auto;
+  display: flex;
+}
+.logo {
+  width: 280px;
+  height: 44px;
+  margin-top: 45px;
+  margin-left: 113px;
+}
+.ul-nav {
+  margin-top: 55px;
+
+  justify-content: space-between;
+
+  color: #ffffff;
+  width: 505px;
+  margin-left: 218px;
+}
+.lists {
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+}
+.navigation {
+  width: 505px;
+}
+.contact-us-dv {
+  width: 383px;
+  height: 66px;
+  margin-left: 400px;
+
+  margin-top: 40px;
+  font-size: 24px;
+  color: #ffffff;
+
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.left-box {
+  width: 165px;
+}
+.right-box {
+  width: 194px;
+  height: 66px;
+  border-radius: 15px;
+
+  background-color: #ff7420;
+}
+
+.english {
+  color: #ffffff;
+
+  font-size: 24px;
+
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.section-1 {
+  background-image: url(../images/background-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1728px;
+  height: 936px;
+  margin: 0 auto;
+}
+.section-2 {
+  width: 1728px;
+
+  background-color: #ff7420;
+
+  margin: 0 auto;
+  position: relative;
+}
+.featured-project {
+  font-size: 64px;
+  color: #191a19;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  width: 535px;
+  height: 96px;
+  position: absolute;
+
+  margin-top: 57px;
+  margin-left: 111px;
+}
+.all-works,
+.construction,
+.architecture,
+.building,
+.renovations,
+.interior {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #ffffff;
+}
+.images-dv {
+  column-gap: 18.43px;
+  margin-top: 202px;
+}
+.projects-box {
+  width: 251px;
+  height: 50px;
+  margin-left: 1367px;
+  column-gap: 10px;
+  margin-top: 22px;
+}
+.all-projects {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+  color: #191a19;
+  line-height: 100%;
+  width: 191px;
+  height: 30px;
+}
+.arrow {
+  background-color: #191a19;
+  width: 24px;
+  height: 24px;
+  border-radius: 13px;
+}
+.fa-arrow-right {
+  color: #ff7420;
+}
+.footer-container {
+  background-color: #191a19;
+  width: 1728px;
+  width: 1939px;
+  margin: 0 auto;
+}
+.our-client {
+  font-size: 28px;
+  color: #ff7420;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+ 
+}
+.client-text {
+  font-size: 10px;
+  width: 1067px;
+  height: 90px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-top: 39px;
+  color: #ffffff;
+  margin-left: 430px;
+  
+}
